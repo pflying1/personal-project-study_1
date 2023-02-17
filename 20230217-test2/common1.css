@@ -1,0 +1,17 @@
+:root {
+  --background-color1: #FFFFFF;
+  --background-color2: #2196F3;
+  --background-color3: #D9D9D9;
+  --background-color4: #333333;
+  --background-color5: #F0F0F0;
+
+  --text-color1: #FFFFFF;
+  --text-color2: #333333;
+  --text-color3: #2196F3;
+  --text-color4: #F0F0F0;
+  --text-color5: #000000;
+}
+body{
+  box-sizing: border-box;
+  margin: 0;
+}
